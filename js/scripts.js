@@ -39,4 +39,14 @@
     $("body").scrollspy({
         target: "#sideNav",
     });
+	
+	
+	//collapsible hovering MIO CAMBIAMENTO
+	$(".panel-heading").parent('.panel').hover(
+  function() {
+    $(this).children('.collapse').collapse('show');
+  }, function() {
+    $(this).children('.collapse').collapse('hide');
+  });
+
 })(jQuery); // End of use strict
