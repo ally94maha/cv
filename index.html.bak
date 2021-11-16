@@ -80,21 +80,13 @@
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Work experience</h2>
-					<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Study coordinator</h3>
-                            <div class="subheading mb-3">Università Vita-Salute San Raffaele</div>
-                            <p>Experience in recruiting subjects to the trial using flyers, calls and letters; collected, managed and maintained all study related paperwork and correspondence; coordinated participant tests and procedures</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-danger">November 2021 - Present</span></div>
-                    </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Research bursary</h3>
                             <div class="subheading mb-3">Università degli Studi di Milano-Bicocca</div>
                             <p>Protocols optimization and validation for MALDI-MS Imaging and nLC-ESI MS/MS.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-danger">April 2020 - October 2021</span></div>
+                        <div class="flex-shrink-0"><span class="text-danger">April 2020 - Present</span></div>
                     </div>
 					<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
